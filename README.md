@@ -41,6 +41,4 @@ The dataset consists of multiple relational tables including:
 ## 📊 Output / Visuals (Optional)
 You can add screenshots or links to dashboards here if you created any.
 
-![Pizza Sales Dashboard]("Screenshot 2025-06-08 170910.png")
-
 
