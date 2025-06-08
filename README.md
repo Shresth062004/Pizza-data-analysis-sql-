@@ -38,7 +38,4 @@ The dataset consists of multiple relational tables including:
 - Git & GitHub for version control
 - (Optional: Excel/Power BI/Tableau for visualization)
 
-## 📊 Output / Visuals (Optional)
-You can add screenshots or links to dashboards here if you created any.
-
 
